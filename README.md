@@ -24,7 +24,7 @@
 
 ### **Como Usar**
 
-1. **Clone o Repositório:**
+1. **Acesse o link do Vercel:**
    ```bash
    git clone https://[seu-repositorio]/locomotivas-a-vapor.git
    ```
