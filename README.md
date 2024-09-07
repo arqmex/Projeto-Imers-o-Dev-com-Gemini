@@ -1,4 +1,4 @@
-## **README.md: Locomotivas a Vapor - Um Passeio pela História Ferroviária** 
+## **Locomotivas a Vapor - Um Passeio pela História Ferroviária** 
 
 ### **Sobre o Projeto**
 
