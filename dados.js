@@ -1,6 +1,7 @@
 let dados = [
     {
       titulo: "Baroneza",
+      imagem: "Baroneza.jpg",
       descricao: "A Baroneza é mais do que apenas uma locomotiva; ela representa um marco histórico fundamental para o Brasil. Construída em 1852 na Inglaterra e trazida para o país pelo visionário Barão de Mauá, a Baroneza realizou sua primeira viagem em território nacional em 30 de abril de 1854, inaugurando assim a era das ferrovias no Brasil.Com seu design elegante e construção robusta, a Baroneza não era apenas um meio de transporte, mas um símbolo de progresso e modernidade. Seus apitos agudos ecoavam pelos campos, anunciando uma nova era de desenvolvimento e conectando regiões antes isoladas. A locomotiva percorria um trajeto de 14,5 km, ligando o Porto de Mauá a Fragoso, na cidade de Magé, na Baixada Fluminense. A Baroneza foi muito mais do que uma máquina: ela foi um catalisador para o desenvolvimento econômico do país, facilitando o transporte de mercadorias e pessoas. Além disso, a locomotiva também desempenhou um papel importante na integração nacional, aproximando regiões distantes e fomentando o comércio. Hoje, a Baroneza é considerada um patrimônio histórico e cultural do Brasil, um testemunho vivo de uma época em que o ferro e o vapor moldavam o futuro do país.",
     },
     {

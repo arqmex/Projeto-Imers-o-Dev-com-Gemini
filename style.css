@@ -69,8 +69,8 @@ section button {
 }
 
 main{
-    background-image:url('https://images.unsplash.com/photo-1535535112387-56ffe8db21ff?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
-    background-size: auto;
+    background-image:url('img/background-img.jpg');
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;    
@@ -177,7 +177,7 @@ main{
 }
 
 .empty{
-    color: wheat;
+    color: rgb(255, 255, 255);
 }
 .notfound{
     color: white;
